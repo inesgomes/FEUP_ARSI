@@ -1,0 +1,2823 @@
+PointlessBlogVlogs {24.0}
+/n
+MoreZoella {22.0}
+/n
+marshmello {10.0, 26.0}
+/n
+Inthefrow {26.0}
+/n
+WWE {17.0}
+/n
+The Late Show with Stephen Colbert {24.0, 22.0}
+/n
+SamanthaMariaVlogs {26.0}
+/n
+Amelia Liana {26.0, 22.0}
+/n
+Lily Pebbles {26.0}
+/n
+Giovannasworld {24.0}
+/n
+Estée Lalonde {22.0}
+/n
+Hazel Hayes {22.0}
+/n
+Jimmy Kimmel Live {24.0, 10.0, 23.0}
+/n
+The Tonight Show Starring Jimmy Fallon {23.0}
+/n
+HOT 97 {10.0}
+/n
+Lex Croucher {23.0}
+/n
+MadisonBeerMusicVEVO {10.0}
+/n
+dodieVEVO {10.0}
+/n
+WORLDSTARHIPHOP {10.0}
+/n
+MILCK {10.0}
+/n
+Grace Helbig {22.0}
+/n
+Movieclips Trailers {1.0}
+/n
+AT&T {10.0}
+/n
+Pop Blast {24.0}
+/n
+TBS {24.0}
+/n
+nan {nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan}
+/n
+The Late Late Show with James Corden {24.0, 22.0}
+/n
+2CELLOS {10.0}
+/n
+TheEllenShow {24.0}
+/n
+Late Night with Seth Meyers {23.0}
+/n
+ddriadon {24.0}
+/n
+vlogbrothers {22.0}
+/n
+SUPERFRUIT {24.0}
+/n
+PsychoSoprano {23.0}
+/n
+First We Feast {26.0}
+/n
+colinfurze {2.0}
+/n
+EinsteinEnt {24.0}
+/n
+Shawn Johnson East {22.0}
+/n
+DaLordz Prince {1.0}
+/n
+Ali-A {20.0}
+/n
+LukeBryanVEVO {10.0}
+/n
+Sprinkleofglitter {26.0}
+/n
+CJENMMUSIC Official {10.0}
+/n
+TMZSports {17.0}
+/n
+RemyMaVEVO {10.0}
+/n
+WIRED {24.0, 17.0, 2.0, 28.0}
+/n
+Tu Fan {24.0}
+/n
+The Anna Edit {26.0}
+/n
+Stephen Howson FC {17.0}
+/n
+ncsoft {20.0}
+/n
+Tom Fletcher {24.0}
+/n
+World of Warcraft {20.0}
+/n
+Donut Media {2.0}
+/n
+Cracked {23.0}
+/n
+iJustine {28.0, 22.0}
+/n
+The Official Pokémon YouTube Channel {20.0}
+/n
+09W HYPE {22.0}
+/n
+TaylorSwiftVEVO {10.0}
+/n
+Ben Cathro {17.0}
+/n
+Thomas Sanders {23.0}
+/n
+MeganBatoon {24.0}
+/n
+RAW {22.0}
+/n
+Tanya Burr {26.0}
+/n
+MigosVEVO {10.0}
+/n
+Kurzgesagt – In a Nutshell {27.0}
+/n
+Lele Pons {23.0}
+/n
+larsandersen23 {17.0}
+/n
+Great Big Story {22.0, 15.0}
+/n
+Star Wars {24.0}
+/n
+Blizzard Entertainment {20.0}
+/n
+ZHUVEVO {10.0}
+/n
+Good Morning Britain {24.0, 17.0}
+/n
+MiguelVEVO {10.0}
+/n
+Binging with Babish {24.0}
+/n
+NERDVEVO {10.0}
+/n
+Vsauce {24.0}
+/n
+FBE {24.0}
+/n
+Vance Joy {10.0}
+/n
+Maroon5VEVO {10.0}
+/n
+ChrisStapletonVEVO {10.0}
+/n
+SelenaGomezVEVO {10.0}
+/n
+DonDiablo {10.0}
+/n
+Refinery29 {26.0}
+/n
+GQ {24.0, 10.0}
+/n
+SuperCarlinBrothers {22.0}
+/n
+BostonDynamics {28.0}
+/n
+The Verge {28.0}
+/n
+BBCRadio1VEVO {10.0}
+/n
+Saturday Night Live {24.0}
+/n
+SMTOWN {10.0}
+/n
+Superhero News {24.0}
+/n
+1theK (원더케이) {10.0}
+/n
+M2 {24.0}
+/n
+JSaxofone {10.0}
+/n
+Field Music {10.0}
+/n
+MTB MAG {22.0}
+/n
+Republic Records {10.0}
+/n
+RedLetterMedia {24.0}
+/n
+UFC - Ultimate Fighting Championship {17.0}
+/n
+FOX 5 DC {25.0}
+/n
+Ozuna {10.0}
+/n
+Peter Nicholls {22.0}
+/n
+Insane Championship Wrestling - ICW {24.0}
+/n
+James Charles {24.0}
+/n
+Ubisoft US {20.0}
+/n
+Sharon Needles {10.0}
+/n
+poofables {24.0}
+/n
+PWNSTARZdotCOM {20.0}
+/n
+DarkSquidge {22.0}
+/n
+Watch What Happens Live with Andy Cohen {24.0}
+/n
+Matt Steffanina {24.0}
+/n
+Vevo dscvr {10.0}
+/n
+Guardian News {25.0}
+/n
+College News Network {25.0}
+/n
+Mike Boyd {24.0}
+/n
+SEVENTEEN {10.0}
+/n
+Breakfast Club Power 105.1 FM {24.0}
+/n
+starshipTV {10.0}
+/n
+Tom Scott {27.0}
+/n
+Carrie Hope Fletcher {24.0}
+/n
+Helen Anderson {22.0}
+/n
+Emily Hart {23.0}
+/n
+Fleur DeForce {26.0}
+/n
+Safiya Nygaard {22.0}
+/n
+Zoella {26.0}
+/n
+Samantha Maria {26.0}
+/n
+cestrian81 {17.0}
+/n
+MyHarto {23.0}
+/n
+LiamPayneVEVO {10.0}
+/n
+Ryan Taylor {17.0}
+/n
+Chromeo {10.0}
+/n
+Divorce Court {23.0}
+/n
+Samsung Mobile USA {24.0}
+/n
+gugudan {24.0}
+/n
+EXID_OFFICIAL {24.0}
+/n
+KelelaVEVO {10.0}
+/n
+Waymo {28.0}
+/n
+CNN {25.0}
+/n
+Justin Chan {24.0}
+/n
+markthomasbuilder {22.0}
+/n
+Difficult Psycho {24.0}
+/n
+AngryJoeShow {20.0}
+/n
+Global Mountain Bike Network {17.0}
+/n
+Trap City {10.0}
+/n
+BBC Earth Lab {24.0}
+/n
+BBC Three {24.0}
+/n
+Lorde_Fix [@Lorde_fix on twitter] {10.0}
+/n
+Vanity Fair {24.0}
+/n
+CollegeHumor {23.0}
+/n
+CinemaSins {1.0}
+/n
+SiaVEVO {10.0}
+/n
+British Vogue {24.0}
+/n
+Simon's Cat {15.0}
+/n
+MTV International {24.0}
+/n
+John Conforti {22.0}
+/n
+UK Bike Skills {22.0}
+/n
+Abroad in Japan {24.0}
+/n
+Life Noggin {27.0}
+/n
+ThirtySecondsToMarsVEVO {10.0}
+/n
+20th Century Fox {1.0}
+/n
+Lydia Elise Millen {22.0}
+/n
+Power 106 Los Angeles {10.0}
+/n
+makeupbymichaelfinch {26.0}
+/n
+HarryStylesVEVO {10.0}
+/n
+MovieAccessTrailers {24.0, 1.0}
+/n
+SACCONEJOLYs {22.0}
+/n
+E! Entertainment {24.0}
+/n
+MsAaliyahJay {26.0}
+/n
+DoctorOz {26.0}
+/n
+PostmodernJukebox {10.0}
+/n
+Tyler Williams {22.0}
+/n
+Screen Junkies {1.0}
+/n
+Nicole Guerriero {22.0}
+/n
+Brothers Green Eats {26.0}
+/n
+Porter Robinson {10.0}
+/n
+Fabio Wibmer {17.0}
+/n
+YouTube Spotlight {24.0}
+/n
+The Céline Café {24.0}
+/n
+CupcakeJemma {26.0}
+/n
+Lietuvos Futbolo Rinktinės Archyvas {17.0}
+/n
+GameGrumps {20.0}
+/n
+earMUSIC {10.0}
+/n
+SigridVEVO {10.0}
+/n
+ABC Television Network {24.0}
+/n
+IISuperwomanII {23.0}
+/n
+Liza Koshy {23.0}
+/n
+Marques Brownlee {28.0}
+/n
+NiallHoranVEVO {10.0}
+/n
+Novara Media {25.0}
+/n
+Jamie Genevieve {22.0}
+/n
+TheScriptVEVO {10.0}
+/n
+Gabriella Lindley {24.0}
+/n
+ibighit {10.0}
+/n
+BBC Earth {15.0}
+/n
+chayanneVEVO {10.0}
+/n
+Nile Wilson {17.0}
+/n
+Inside Edition {25.0}
+/n
+John Maclean {26.0}
+/n
+BBC Music {10.0}
+/n
+HowToBasic {24.0, 26.0}
+/n
+Atlantic Records {10.0}
+/n
+Good Mythical Morning {24.0}
+/n
+empireofthesunvevo {10.0}
+/n
+CamilaCabelloVEVO {10.0}
+/n
+Mark Brown {22.0}
+/n
+JenniferLopezVEVO {10.0}
+/n
+CHANNEL90seconds newscom {22.0}
+/n
+OfficialGucciMane {10.0}
+/n
+President Trump {25.0}
+/n
+Foolmarkt {24.0}
+/n
+ElbowVEVO {10.0}
+/n
+Vox {25.0}
+/n
+TODAY {25.0}
+/n
+Harry Main {24.0}
+/n
+INSIDER {24.0, 28.0, 15.0}
+/n
+Butch Hartman {1.0, 20.0}
+/n
+Stop Autonomous Weapons {22.0}
+/n
+Pixielocks {26.0, 22.0}
+/n
+EnRemolinosWeb {10.0}
+/n
+Now You See It {27.0}
+/n
+Listen to this also {23.0}
+/n
+RachelPlattenVEVO {10.0}
+/n
+SIRAH {10.0}
+/n
+Salford City Football Club {17.0}
+/n
+TIME {25.0}
+/n
+ElAnalistaDeBits {20.0}
+/n
+EminemVEVO {10.0}
+/n
+MMAFightingonSBN {17.0}
+/n
+Wong Fu Productions {24.0}
+/n
+IGN {24.0, 20.0}
+/n
+Daniel J. Layton {22.0}
+/n
+EnduraOfficial {17.0}
+/n
+Camila Cabello {10.0}
+/n
+The X Factor UK {24.0}
+/n
+Ed Sheeran {10.0}
+/n
+COPA90 {17.0}
+/n
+John Lewis {26.0}
+/n
+Hari Kondabolu {24.0}
+/n
+Simpsons Road Rage Gameplay {1.0}
+/n
+William Osman {28.0}
+/n
+PTXofficial {10.0}
+/n
+How To Cake It {26.0}
+/n
+BBC News {25.0, 28.0, 1.0, 15.0}
+/n
+Vogue {24.0, 22.0}
+/n
+jacksfilms {23.0}
+/n
+Chris Stuckmann {24.0}
+/n
+You Suck At Cooking {26.0}
+/n
+alt-J {10.0}
+/n
+Matthias {28.0}
+/n
+Demi Lovato {24.0}
+/n
+Klossy {22.0}
+/n
+Unit Lost - Great British Gaming {20.0}
+/n
+Verne Troyer {24.0}
+/n
+The New Yorker {24.0}
+/n
+Ricky Rebel {26.0}
+/n
+SciShow {27.0}
+/n
+FATV {17.0}
+/n
+grobbo64 {19.0}
+/n
+Sailor J {24.0}
+/n
+BBC Radio 1 {24.0, 10.0}
+/n
+Taylor Swift {10.0}
+/n
+WOWPresents {24.0}
+/n
+It's Okay To Be Smart {27.0}
+/n
+Soccer AM {17.0}
+/n
+ESPN {17.0}
+/n
+todrickhall {24.0}
+/n
+Jessii Vee {23.0}
+/n
+Fueled By Ramen {10.0}
+/n
+A-Trak {10.0}
+/n
+Marvel Entertainment {24.0, 2.0}
+/n
+ScreenJunkies News {24.0}
+/n
+Bruno Mars {10.0}
+/n
+Business Insider {25.0}
+/n
+Brain Power Studio {1.0}
+/n
+Wendy Williams {24.0}
+/n
+BaerTaffy {20.0}
+/n
+catgil2 {10.0}
+/n
+Noisy Images {10.0}
+/n
+Scott Seaton {24.0}
+/n
+theoffcamerashow {24.0}
+/n
+PEG Management {10.0}
+/n
+Liverpool FC {17.0}
+/n
+Beyond The Trailer {24.0}
+/n
+FilmSelect Trailer {24.0}
+/n
+Björk {10.0}
+/n
+Dua Lipa {10.0}
+/n
+ran future {28.0}
+/n
+FallOutBoyVEVO {10.0}
+/n
+Now You Know {28.0}
+/n
+Kitten Lady {15.0}
+/n
+On Air With Ryan Seacrest {24.0}
+/n
+Austin Evans {28.0}
+/n
+Simply Nailogical {24.0}
+/n
+iHasCupquake {20.0}
+/n
+Jonathan Morrison {28.0}
+/n
+Fran Meneses {22.0}
+/n
+Travis Peterson {22.0}
+/n
+mvt.ias {10.0}
+/n
+DC Rainmaker {17.0}
+/n
+Entertainment Tonight {24.0, 10.0, 22.0}
+/n
+TeamMojang {20.0}
+/n
+Access Hollywood {24.0}
+/n
+Sam Chui {19.0}
+/n
+Dina Tokio {26.0, 22.0}
+/n
+ThamesTv {10.0}
+/n
+DJSnakeVEVO {10.0}
+/n
+kermodeandmayo {1.0}
+/n
+Pretty Good Gaming {20.0}
+/n
+ViralHog {15.0}
+/n
+UFO Today {28.0}
+/n
+YOUNG FATHERS {10.0}
+/n
+Josh Groban {10.0}
+/n
+John Campea {24.0}
+/n
+FlumeAUS {10.0}
+/n
+JadenSmithVEVO {10.0}
+/n
+AaronsAnimals {22.0, 15.0}
+/n
+HaileeSteinfeldVEVO {10.0}
+/n
+HBO {24.0, 1.0}
+/n
+LuisFonsiVEVO {10.0}
+/n
+Nasey Family {22.0}
+/n
+J-14 Magazine {24.0}
+/n
+RaeSremmurdVEVO {10.0}
+/n
+leftways {10.0}
+/n
+Warner Bros. Pictures {24.0}
+/n
+E! Live from the Red Carpet {24.0}
+/n
+HiHo Kids {22.0}
+/n
+EmiratesTeamNZ {17.0}
+/n
+hotdiggedydemon {1.0}
+/n
+Pokémon GO {20.0}
+/n
+H3 Podcast {24.0}
+/n
+Mnet K-POP {24.0}
+/n
+MyLifeAsEva {26.0}
+/n
+Disney Movie Trailers {1.0}
+/n
+TRL {24.0}
+/n
+Just Wow me {24.0}
+/n
+Ninja Theory {20.0}
+/n
+Wiggy {10.0}
+/n
+LOVE TV by LOVE Magazine {22.0}
+/n
+Mr. Interesante {10.0}
+/n
+Highlight Heaven {17.0}
+/n
+West Midlands Police {25.0}
+/n
+SprinkleofChatter {22.0}
+/n
+lara6683 {20.0}
+/n
+Nerdwriter1 {24.0}
+/n
+Epicurious {26.0}
+/n
+Jen Campbell {24.0}
+/n
+Linkin Park {10.0}
+/n
+Kandee Johnson {26.0}
+/n
+YTN NEWS {25.0}
+/n
+SunLife {1.0}
+/n
+Miranda Sings {23.0}
+/n
+Caspar {24.0}
+/n
+Jackie Aina {26.0}
+/n
+Domino Recording Co. {10.0}
+/n
+SZAVEVO {10.0}
+/n
+Cloth Map {19.0}
+/n
+Zendaya {24.0}
+/n
+The Tommy Edison Experience {22.0}
+/n
+Portugal. The Man {10.0}
+/n
+Alex Gilbert {22.0}
+/n
+CBS This Morning {25.0}
+/n
+BTS Videos {10.0}
+/n
+Green Day {10.0}
+/n
+WeSpeakCycling {1.0}
+/n
+Adult Swim {24.0}
+/n
+NoelGallagherVEVO {10.0}
+/n
+paulitaale {10.0}
+/n
+PinkVEVO {10.0}
+/n
+Garrett DeLozier {1.0}
+/n
+The King of Random {27.0}
+/n
+MONTREALITY {24.0}
+/n
+FullTimeDEVILS {17.0}
+/n
+Philip DeFranco {24.0}
+/n
+adidas Football {17.0}
+/n
+LadyGagaVEVO {10.0}
+/n
+Netflix {24.0}
+/n
+PostMaloneVEVO {10.0}
+/n
+CS Dojo {27.0}
+/n
+HelloOctoberxo {26.0}
+/n
+Will Darbyshire {1.0}
+/n
+OK Go {10.0}
+/n
+I Like To Make Stuff {26.0}
+/n
+MalumaVEVO {10.0}
+/n
+UCI {17.0}
+/n
+Megan Ellaby {22.0}
+/n
+Hannah Stocking {23.0}
+/n
+Just Between Us {23.0}
+/n
+Olivia Jade {26.0}
+/n
+ReelzChannel {24.0}
+/n
+Wassabi Productions {24.0}
+/n
+Bleacher Report {17.0}
+/n
+That's Surrey TV {25.0}
+/n
+Rudy Mancuso {23.0}
+/n
+ElectroBOOM {28.0}
+/n
+ImagineDragonsVEVO {10.0}
+/n
+Saint {17.0}
+/n
+clothesencounters {26.0}
+/n
+Kinda Funny Games {20.0}
+/n
+Lucy Moon {22.0}
+/n
+The Scran Line {26.0}
+/n
+The Deal Guy {28.0}
+/n
+Markiplier {23.0}
+/n
+Noodlerella {1.0}
+/n
+Jack Maynard {10.0}
+/n
+CalumScottVEVO {10.0}
+/n
+Liam Gallagher {22.0}
+/n
+Lame Videos {23.0}
+/n
+Why Don't We {10.0}
+/n
+westfesttv {22.0}
+/n
+KamiVS {20.0}
+/n
+KaneBrownVEVO {10.0}
+/n
+AnthonyPadilla {23.0}
+/n
+Ellie and Jared {22.0}
+/n
+スクウェア・エニックス {20.0}
+/n
+ElleOfTheMills {24.0}
+/n
+BANGTANTV {10.0}
+/n
+Unbox Therapy {28.0}
+/n
+JerryRigEverything {26.0}
+/n
+TiffyQuake {26.0}
+/n
+Doug DeMuro {2.0}
+/n
+Andre Black Nerd {1.0}
+/n
+PlayStation {20.0}
+/n
+GEazyMusicVEVO {10.0}
+/n
+DamonAndJo {23.0}
+/n
+Rosanna Pansino {26.0}
+/n
+CBC News {25.0}
+/n
+The View {24.0, 25.0, 29.0}
+/n
+jypentertainment {10.0}
+/n
+Mashable Daily {2.0}
+/n
+Red Bull {17.0}
+/n
+Teton Gravity Research {17.0}
+/n
+Tyler Oakley {24.0}
+/n
+Variety {24.0}
+/n
+MOBO Awards {10.0}
+/n
+Munchies {24.0}
+/n
+DanielCaesarVEVO {10.0}
+/n
+Smosh {23.0}
+/n
+TMZ {24.0}
+/n
+WELLINGTON 51 {22.0}
+/n
+Billboard {10.0}
+/n
+Liam Robertson - Game History Guy {20.0}
+/n
+STMPD RCRDS {10.0}
+/n
+yogottiVEVO {10.0}
+/n
+The Telegraph {25.0}
+/n
+Nahmir {10.0}
+/n
+The 2Inch of Gnar {22.0}
+/n
+Sanadsk {20.0}
+/n
+Trailers Promos Teasers {24.0}
+/n
+Ferg {24.0}
+/n
+JacksonWangVEVO {10.0}
+/n
+Hasan Al-Jarrah {24.0}
+/n
+CameronBGC {22.0}
+/n
+Shesez {20.0}
+/n
+Google {28.0}
+/n
+The Real Daytime {24.0}
+/n
+FightHype.com {17.0}
+/n
+emmablackery {24.0}
+/n
+Bhad Bhabie {10.0, 22.0}
+/n
+ワーナー ブラザース 公式チャンネル {1.0}
+/n
+NanoO ARCHIVOS {1.0}
+/n
+Nipsey Hussle {10.0}
+/n
+Jonathan Pie {25.0}
+/n
+Lawrence Carpenter {22.0}
+/n
+Snapchat {10.0}
+/n
+SamSmithWorldVEVO {10.0}
+/n
+Tia Mowry's Quick Fix {22.0}
+/n
+TheWishmaster {22.0}
+/n
+MeekMillTV {10.0}
+/n
+LissieVEVO {10.0}
+/n
+GraceVanderWaalVEVO {10.0}
+/n
+Martin Garrix {10.0}
+/n
+TLC {24.0}
+/n
+Flo Rida {10.0}
+/n
+sophdoesnails {26.0}
+/n
+Comicbook.com {1.0}
+/n
+Jenny Mustard {26.0}
+/n
+Zcure1 {24.0}
+/n
+fullychargedshow {28.0}
+/n
+Evan Edinger {23.0}
+/n
+minusHEADrecords {10.0}
+/n
+Shoshana Bean {10.0}
+/n
+swedemason {10.0}
+/n
+Baby Ariel {24.0}
+/n
+Liza Koshy Too {23.0}
+/n
+Preston Jacobs {24.0}
+/n
+Jack and Dean {23.0}
+/n
+88rising {24.0}
+/n
+LadBaby Official {22.0}
+/n
+just stevo {20.0}
+/n
+Underground Sound {10.0}
+/n
+Patricia Bright {26.0}
+/n
+Noclip {20.0}
+/n
+DanAndPhilGAMES {20.0}
+/n
+Rob Scallon {10.0}
+/n
+BattlefrontUpdates {20.0}
+/n
+Good Charlotte {10.0}
+/n
+PGA TOUR {17.0}
+/n
+SPFL {17.0}
+/n
+Tessa Violet {10.0}
+/n
+2ndJerma {20.0}
+/n
+Alan Walker {10.0}
+/n
+Hannah Witton {22.0}
+/n
+TimWestwoodTV {10.0}
+/n
+5MadMovieMakers {24.0}
+/n
+Dash Cam Owners Australia {2.0}
+/n
+UNIVERSAL MUSIC JAPAN {10.0}
+/n
+mikehill.design {22.0}
+/n
+Complex {24.0}
+/n
+米津玄師 {10.0}
+/n
+Jeremy Jahns {24.0}
+/n
+Universal Pictures Home Entertainment {1.0}
+/n
+The Voice {24.0}
+/n
+franzferdinandVEVO {10.0}
+/n
+KISS FM UK {10.0}
+/n
+Mesa Sean {20.0}
+/n
+Alissa Ashley {26.0}
+/n
+roots66 {24.0}
+/n
+YG ENTERTAINMENT {10.0}
+/n
+Looper {24.0}
+/n
+ESSENCE {24.0}
+/n
+Bon Appétit {26.0}
+/n
+The Infographics Show {27.0}
+/n
+kehlani parrish {10.0}
+/n
+Universal Pictures {24.0}
+/n
+50to01 TV {1.0}
+/n
+The Orville {24.0}
+/n
+Wendover Productions {27.0}
+/n
+The School of Life {27.0}
+/n
+New Trailer Buzz {1.0}
+/n
+Anna Akana {23.0}
+/n
+SiriusXM {24.0, 10.0}
+/n
+The Hollywood Reporter {24.0}
+/n
+BRÅVES {10.0}
+/n
+Asthmatic Kitty Records {10.0}
+/n
+LIL UZI VERT {22.0}
+/n
+The New York Times {25.0}
+/n
+Jessica Kellgren-Fozard {22.0}
+/n
+Simply Not Logical {24.0}
+/n
+VMU Dream {22.0}
+/n
+The Grand Tour {24.0}
+/n
+Glam&Gore {24.0}
+/n
+Vlogs By DK4L {22.0}
+/n
+James Veitch {23.0}
+/n
+Maddie Ziegler {24.0}
+/n
+KARD {10.0}
+/n
+MSNBC {25.0}
+/n
+Madelaine Petsch {22.0}
+/n
+M.C.rush {24.0}
+/n
+Dinah Jane {10.0}
+/n
+PewDiePie {24.0, 25.0, 23.0}
+/n
+Lifetime {24.0}
+/n
+SOPHIE {22.0}
+/n
+Star Wars Theory {24.0}
+/n
+A24 {1.0}
+/n
+Muselk {20.0}
+/n
+Michelle Visage {10.0}
+/n
+The Film Theorists {1.0}
+/n
+PLAYERUNKNOWN'S BATTLEGROUNDS {20.0}
+/n
+Washington Post {25.0}
+/n
+RocketJump {27.0}
+/n
+XCageGame {20.0}
+/n
+ManicStPreachersVEVO {10.0}
+/n
+Fahd W Rugby {17.0}
+/n
+Nintendo {20.0}
+/n
+Campo Santo Productions {20.0}
+/n
+ExplosmEntertainment {23.0}
+/n
+The Shadowscale {20.0}
+/n
+Kitchen Nightmares {24.0}
+/n
+Bandai Namco Entertainment America {20.0}
+/n
+booksandquills {22.0}
+/n
+LouisTomlinsonVEVO {10.0}
+/n
+Fortnite {20.0}
+/n
+Top Gear {2.0}
+/n
+budleewiser {17.0}
+/n
+Browntable {24.0}
+/n
+Fulham1879 FanTV {17.0}
+/n
+Gamechamp3000 {20.0}
+/n
+新日本プロレスリング株式会社 {17.0}
+/n
+R Λ Z Ξ R {20.0}
+/n
+Jake Paul {22.0}
+/n
+Nikocado Avocado {22.0}
+/n
+Empire {24.0}
+/n
+KendrickLamarVEVO {10.0}
+/n
+Bad Lip Reading {23.0}
+/n
+I'M HIP-HOP {10.0}
+/n
+VirusTornado {2.0}
+/n
+officialcharlixcx {10.0}
+/n
+FunForLouis {22.0}
+/n
+Moby {10.0}
+/n
+Sony Pictures Entertainment {24.0}
+/n
+Ginger Minj {10.0}
+/n
+revoxy {27.0}
+/n
+東宝MOVIEチャンネル {1.0}
+/n
+MK Dons {17.0}
+/n
+Cole and Marmalade {15.0}
+/n
+Panagiotis Rokanis {2.0}
+/n
+JackWhiteVEVO {10.0}
+/n
+dovecott {22.0}
+/n
+IDR Labs {27.0}
+/n
+Glizzy Gang {10.0}
+/n
+Traxxy {20.0}
+/n
+NBC News {25.0}
+/n
+ポケモン公式YouTubeチャンネル {1.0}
+/n
+Ty Dolla $ign {10.0}
+/n
+GwenStefaniVEVO {10.0}
+/n
+SBN3 {1.0}
+/n
+BigCityBeats {24.0}
+/n
+Logan Paul Vlogs {24.0, 29.0}
+/n
+Equal Vision Records {10.0}
+/n
+The National {10.0}
+/n
+Lily Allen {10.0}
+/n
+Cheat Codes {10.0}
+/n
+Post Malone {10.0}
+/n
+SKEPTA {10.0}
+/n
+Guy Kesteven {17.0}
+/n
+Film Gob {24.0}
+/n
+CaseyNeistat {22.0}
+/n
+Betway {20.0}
+/n
+The Graham Norton Show {24.0}
+/n
+doddlevloggle {24.0}
+/n
+BROCKHAMPTON {10.0}
+/n
+DAILY TVSHOWBIZ HOT NEWS {24.0}
+/n
+TheAngryGrandpaShow {22.0}
+/n
+MLG Highlights {17.0}
+/n
+HipHop Sounds {10.0}
+/n
+AviciiOfficialVEVO {10.0}
+/n
+OptimusPenguinOmega {22.0}
+/n
+PonteFractus {24.0}
+/n
+Daily Caller {22.0}
+/n
+Animation on FOX {24.0}
+/n
+uhhuhhim {1.0}
+/n
+Tyrone Magnus {24.0}
+/n
+Dj Earworm {10.0}
+/n
+Jody's Corner {24.0}
+/n
+Dash Star {20.0}
+/n
+Kaze Emanuar {20.0}
+/n
+DisneyMusicVEVO {10.0}
+/n
+justintimberlakeVEVO {10.0}
+/n
+Fifty Shades {24.0}
+/n
+KatyPerryVEVO {10.0}
+/n
+CBBC {24.0}
+/n
+Latest News {25.0}
+/n
+FACEIT {20.0}
+/n
+David Guetta {10.0}
+/n
+KhalidVEVO {10.0}
+/n
+Pro Wrestling Sheet {17.0}
+/n
+The Amazing Lucas {25.0}
+/n
+FleurDeVlog {22.0}
+/n
+Chelsea {24.0}
+/n
+Fundamental Disappointment {24.0}
+/n
+Orion Pictures {1.0}
+/n
+CliveNBAParody {17.0}
+/n
+Desus & Mero {24.0}
+/n
+NBA {17.0}
+/n
+MONSTA X {10.0}
+/n
+Stefan Molyneux {25.0}
+/n
+CHRIS-RS {2.0}
+/n
+LevelCapGaming {20.0}
+/n
+Eleven Seven Music {10.0}
+/n
+Voxis Productions {24.0}
+/n
+h3h3Productions {24.0}
+/n
+KickThePj {1.0, 19.0}
+/n
+SlashFilm {24.0}
+/n
+Green Eagle {22.0}
+/n
+F&F Clothing {26.0}
+/n
+ET Canada {24.0}
+/n
+The Dishonoured Wolf {24.0, 1.0}
+/n
+SYLO: Star Wars {24.0}
+/n
+Orion Acaba {19.0}
+/n
+Talk Nerdy With Me {22.0}
+/n
+MTV {24.0, 17.0}
+/n
+Pet of the Day {22.0}
+/n
+Peter Parker Tube {22.0}
+/n
+The Daily Wire {24.0, 25.0}
+/n
+Speak For Yourself with Cowherd and Whitlock {17.0}
+/n
+BUILD Series {24.0}
+/n
+PaleWavesVEVO {10.0}
+/n
+Noah Antwiler {1.0}
+/n
+xQcOW {20.0}
+/n
+FC Barcelona {24.0, 17.0}
+/n
+HunchoJackVEVO {10.0}
+/n
+CatCreature {22.0}
+/n
+Cardi B {10.0, 22.0}
+/n
+South Front {25.0}
+/n
+FXitinPost {1.0}
+/n
+Emcee Rapology {10.0}
+/n
+Sunset Television {23.0}
+/n
+Macklemore LLC {10.0}
+/n
+jbalvinVEVO {10.0}
+/n
+VH1 {24.0}
+/n
+odontoscar1986 {10.0}
+/n
+GINOBILEEEH {17.0}
+/n
+Hybrid Network {24.0}
+/n
+Flobots {10.0}
+/n
+EminemMusic {10.0}
+/n
+SID M {27.0}
+/n
+The Dodo {15.0}
+/n
+Ami Horowitz {24.0}
+/n
+Electric Mountain Bike Network {26.0}
+/n
+Kevin Smith {22.0}
+/n
+Bobby Burns {24.0}
+/n
+Spotify {10.0}
+/n
+boogie2988 {24.0}
+/n
+TrekGenius News ertainment {24.0}
+/n
+Sargon of Akkad {25.0}
+/n
+littlemixVEVO {10.0}
+/n
+The Young Turks {25.0}
+/n
+SugarlandVEVO {10.0}
+/n
+Panic! At The Disco {10.0}
+/n
+Lord Buckethead {25.0}
+/n
+St Wilfrid's Catholic School {22.0}
+/n
+PBS Space Time {27.0}
+/n
+TEDx Talks {29.0}
+/n
+Easy Allies {20.0}
+/n
+EMPIRE {10.0}
+/n
+The Four {24.0}
+/n
+Cole Bennett {24.0}
+/n
+Pledis Artist {10.0}
+/n
+Alex Becker's Channel {22.0}
+/n
+Doctor Who {24.0}
+/n
+VICE {24.0}
+/n
+REVOLT TV {24.0}
+/n
+Dimitri Vegas & Like Mike {1.0}
+/n
+Voca Productions {22.0}
+/n
+Benatos {1.0}
+/n
+DatPiff {10.0}
+/n
+randytaylor69 {23.0}
+/n
+danisnotinteresting {22.0}
+/n
+Screen Team {24.0}
+/n
+SBS Entertainment {24.0}
+/n
+WINNER {10.0}
+/n
+FARRUKOVEVO {10.0}
+/n
+FutureVEVO {10.0}
+/n
+Jasmine Rae {10.0}
+/n
+the Observer {24.0}
+/n
+RapMusicHD {10.0}
+/n
+NEW JAPAN PRO-WRESTLING {17.0}
+/n
+The Rageaholic {24.0}
+/n
+Mouthy Buddha {22.0}
+/n
+Proximity {24.0}
+/n
+Conor Maynard {10.0}
+/n
+moviebob {24.0}
+/n
+KBS World TV {24.0}
+/n
+Walk off the Earth {10.0}
+/n
+olddominionVEVO {10.0}
+/n
+NikkieTutorials {26.0}
+/n
+Red boy {22.0}
+/n
+justkissmyfrog {22.0}
+/n
+Us The Duo {10.0}
+/n
+PowerfulJRE {22.0}
+/n
+Kenny S {10.0}
+/n
+UFC ON FOX {17.0}
+/n
+BLACKPINKxXxBTS {10.0}
+/n
+slaymeclarkson c: {10.0}
+/n
+Lil Wayne {10.0}
+/n
+Red Carpet News TV {24.0}
+/n
+Jonas Neubauer {20.0}
+/n
+Swedish_Mate {24.0}
+/n
+Trap Nation {10.0}
+/n
+RealLifeLore {27.0}
+/n
+Lyndon Poskitt Racing {1.0}
+/n
+KTVU {24.0}
+/n
+Beats 1 Radio {10.0}
+/n
+Cut {24.0}
+/n
+secureteam10 {28.0}
+/n
+Kaguya Luna Official {22.0}
+/n
+PlayOverwatch {20.0}
+/n
+LS {20.0}
+/n
+Nathan C {26.0}
+/n
+matt {24.0}
+/n
+Hip Hop N More {10.0}
+/n
+Titus Andronicus {10.0}
+/n
+Sam Pilgrim {17.0}
+/n
+Julius Caesar {20.0}
+/n
+ThuleanPerspective {27.0}
+/n
+Amara La Negra {24.0}
+/n
+ArianaGrandeMexico {10.0}
+/n
+Ronan McGreevy {23.0}
+/n
+SsM m {10.0}
+/n
+Xiedubbel {15.0}
+/n
+seven seasons {10.0}
+/n
+Daz Games {24.0}
+/n
+Charlie Puth {10.0}
+/n
+President Trump Live Stream {25.0}
+/n
+Jack's Movie Reviews {1.0}
+/n
+Nico {23.0}
+/n
+Pitchfork {10.0}
+/n
+mikeholder01 {10.0}
+/n
+Emmerdale {24.0}
+/n
+coach {26.0}
+/n
+MGM {1.0}
+/n
+Monstercat: Instinct {22.0}
+/n
+Bikepacking Scotland {19.0}
+/n
+Kelly Clarkson {10.0}
+/n
+Hin Nya {20.0}
+/n
+Zumba {24.0}
+/n
+Simon and Martina {19.0}
+/n
+HarryHudsonVEVO {10.0}
+/n
+Dave Naz {27.0}
+/n
+ConnorFranta {22.0}
+/n
+woolliment {24.0}
+/n
+We The Unicorns {24.0}
+/n
+euronews (en français) {25.0}
+/n
+Dallen Reber {22.0}
+/n
+OneBitMusicVEVO {10.0}
+/n
+Steve TV Show {24.0}
+/n
+Fox News {25.0}
+/n
+Vinicius Batista de Oliveira {23.0}
+/n
+Kroft talks about Movies {1.0}
+/n
+Broadcasting America {22.0}
+/n
+InStyle {26.0}
+/n
+Series Trailer MP {1.0}
+/n
+Avocado {22.0}
+/n
+Monster Energy Supercross {17.0}
+/n
+BBC {24.0}
+/n
+TroyeSivanVEVO {10.0}
+/n
+NBC {24.0}
+/n
+Soju {10.0}
+/n
+Pauls Bunion Kream {25.0}
+/n
+LemonyLink {20.0}
+/n
+ELLE {26.0}
+/n
+Will Smith {24.0}
+/n
+Ultra Music {10.0}
+/n
+Overwatch League VODs {20.0}
+/n
+BETNetworks {24.0}
+/n
+russabbotfan {23.0}
+/n
+Panda Global {20.0}
+/n
+videogamedunkey {20.0}
+/n
+AmazingPhil {26.0}
+/n
+Jon Bravo {24.0}
+/n
+Open Road Films {24.0}
+/n
+Jim Chapman {26.0}
+/n
+Weebl's Stuff {1.0}
+/n
+StupidMarioBros1Fan {20.0}
+/n
+DoodleChaos {24.0}
+/n
+Troye Sivan {10.0}
+/n
+TWICE JAPAN OFFICIAL YouTube Channel {10.0}
+/n
+ETC Show {25.0}
+/n
+MAJID JORDAN {10.0}
+/n
+Major Lazer {10.0}
+/n
+HipHollywood {24.0}
+/n
+QualityControlVEVO {10.0}
+/n
+Thijs Hearthstone {20.0}
+/n
+Kyle Meredith {10.0}
+/n
+Happyface entertainment {24.0, 10.0}
+/n
+Guldies {1.0}
+/n
+Joe Budden TV {24.0}
+/n
+Star Wars Explained {24.0}
+/n
+Dolce & Gabbana {24.0}
+/n
+CrazyRussianHacker {28.0}
+/n
+carrieunderwoodVEVO {10.0}
+/n
+AnselElgortVEVO {10.0}
+/n
+Diplo {10.0}
+/n
+Sophie Louise {26.0}
+/n
+Pina Records {10.0}
+/n
+Hayley Kiyoko {10.0}
+/n
+random guy {25.0}
+/n
+Lil Durk {10.0}
+/n
+austinmcconnell {27.0}
+/n
+shane {23.0}
+/n
+Mass Appeal {24.0}
+/n
+Ghost Adventures TV {22.0}
+/n
+DrewTony'Z {20.0}
+/n
+Mr Av {17.0}
+/n
+Chelsea Manning {22.0}
+/n
+Russell Brand {25.0}
+/n
+Janemba8000 {20.0}
+/n
+Mhd Officiel {10.0}
+/n
+KeithUrbanVEVO {10.0}
+/n
+BeckVEVO {10.0}
+/n
+GashiVEVO {10.0}
+/n
+New York Daily News {25.0}
+/n
+KFC UK and Ireland {24.0}
+/n
+MrMattyPlays {20.0}
+/n
+TheCubician {24.0}
+/n
+Pops {24.0}
+/n
+BleachersVEVO {10.0}
+/n
+NFL {17.0}
+/n
+veritasvisuals {25.0}
+/n
+Graham The Christian {23.0}
+/n
+Rooster Teeth {1.0}
+/n
+Hopeless Records {10.0}
+/n
+Tyler Stalman {28.0}
+/n
+TED-Ed {27.0}
+/n
+Rich Music {10.0}
+/n
+Silesian Sailor {19.0}
+/n
+TraceyThornVEVO {10.0}
+/n
+nicolopicus7 {20.0}
+/n
+emmymadeinjapan {26.0}
+/n
+Beyond the Summit {20.0}
+/n
+RejjieSnowVEVO {10.0}
+/n
+NFL Films {17.0}
+/n
+Mindless Entertainment {24.0}
+/n
+bill wurtz {22.0}
+/n
+COM3T {10.0}
+/n
+buckomania {22.0}
+/n
+Trending Now {22.0}
+/n
+Car Throttle {2.0}
+/n
+Rapid Trailer {1.0}
+/n
+Nintendo Labo UK {20.0}
+/n
+Rogue Shadow VR {20.0}
+/n
+XstekkahX {10.0}
+/n
+Lisa Eldridge {26.0}
+/n
+miad222 {27.0}
+/n
+ZEDDVEVO {10.0}
+/n
+theCHIVE {24.0}
+/n
+triple j {24.0}
+/n
+Full Frontal with Samantha Bee {22.0}
+/n
+FiftyShadesVEVO {10.0}
+/n
+The Most {25.0}
+/n
+KFC {24.0}
+/n
+BANDAI NAMCO Entertainment Europe {20.0}
+/n
+Interscope Records {10.0}
+/n
+NotJustBlonde {22.0}
+/n
+HvdH-Plane-Spotter {2.0}
+/n
+WatchTheDaily {1.0}
+/n
+Sway's Universe {24.0, 10.0}
+/n
+Radio Times {24.0}
+/n
+Real Time with Bill Maher {1.0}
+/n
+Kylo Ren {22.0}
+/n
+Paweł Zadrożniak {10.0}
+/n
+jessiepaege {22.0}
+/n
+Youtubia TV {25.0}
+/n
+Slayer {10.0}
+/n
+michele corrado {24.0}
+/n
+Marcus Butler {23.0}
+/n
+Kill All Hippies! {10.0}
+/n
+The Liberty Hound {25.0}
+/n
+Gigi Gorgeous {26.0}
+/n
+Domeju {24.0}
+/n
+Old Spice {23.0}
+/n
+CG Record {1.0}
+/n
+P23BenBousquet {22.0}
+/n
+Barcroft Animals {15.0}
+/n
+vodounefekt {10.0}
+/n
+Australian Open TV {17.0}
+/n
+Marc Leroy {10.0}
+/n
+RollerCoaster Tycoon {20.0}
+/n
+plumwax {1.0}
+/n
+Yvolution {26.0}
+/n
+TheSamTsui {10.0}
+/n
+Lip Sync Battle {24.0}
+/n
+WE2LITCREW {23.0}
+/n
+All Time Low {10.0}
+/n
+LeeroyPlambeck {24.0}
+/n
+Primavera Sound {10.0}
+/n
+Ad Council {24.0}
+/n
+HipHopSupply {10.0}
+/n
+Leroy Sanchez {10.0}
+/n
+EA SPORTS FIFA {20.0}
+/n
+Marzia {20.0, 22.0}
+/n
+Popcorn with Peter Travers {24.0}
+/n
+Ethan Gracie {22.0}
+/n
+Pomegranate Sunshine {15.0}
+/n
+MauLer {20.0}
+/n
+Lorraine {24.0}
+/n
+Alpha Entertainment {17.0}
+/n
+smoothiethecat {15.0}
+/n
+EltonJohnVEVO {10.0}
+/n
+Kim Petras {22.0}
+/n
+De La Ghetto {10.0}
+/n
+TheArkive {10.0}
+/n
+Jiro Czech {10.0}
+/n
+Yeovil Town Football Club {17.0}
+/n
+Armin van Buuren {10.0}
+/n
+Overtime {17.0}
+/n
+georgegargan {10.0}
+/n
+The Wombats {10.0}
+/n
+Grace F Victory {22.0}
+/n
+Dav hum {10.0}
+/n
+IndieAnnieJones {10.0}
+/n
+TheVoidzVEVO {10.0}
+/n
+ColliderVideos {24.0}
+/n
+Daniel Howell {22.0}
+/n
+EnriqueIglesiasVEVO {10.0}
+/n
+Marshmello {10.0}
+/n
+Wisecrack {27.0}
+/n
+PartyHatCookieCat {22.0}
+/n
+Channel 4 News {25.0}
+/n
+Kodak Black {10.0}
+/n
+U2VEVO {10.0}
+/n
+MILO {25.0}
+/n
+DaveEastVEVO {10.0}
+/n
+Genius {10.0}
+/n
+Jessica Clements {26.0}
+/n
+Paramount Network {24.0}
+/n
+Today I Found Out {27.0}
+/n
+CashmereCatVEVO {10.0}
+/n
+A.P. Bio {24.0}
+/n
+Daisy Marquez {22.0}
+/n
+ChainsmokersVEVO {10.0}
+/n
+AxwellIngrossoVEVO {10.0}
+/n
+Famous Dex {10.0}
+/n
+BreakingBenjaminVEVO {10.0}
+/n
+HaimVEVO {10.0}
+/n
+I Covet Thee {26.0}
+/n
+Jamie and Nikki {22.0}
+/n
+Nick Ramos {17.0}
+/n
+MTV News {24.0}
+/n
+Mother's Basement {1.0}
+/n
+WatchMojo.com {24.0}
+/n
+Andrew Lowe {23.0}
+/n
+Charlotte Tilbury {26.0}
+/n
+Big Brother UK {24.0}
+/n
+pixiwoo {26.0}
+/n
+KathleenLights {26.0}
+/n
+RiskyCB {20.0}
+/n
+ComedyShortsGamer {22.0}
+/n
+VICE News {25.0}
+/n
+Paramount Pictures {1.0}
+/n
+Cat Lessons {15.0}
+/n
+The 2x Family {22.0}
+/n
+HOLLAND {22.0}
+/n
+Domonic Smith {22.0}
+/n
+TinasheOfficialVEVO {10.0}
+/n
+Daddy Yankee {10.0}
+/n
+JorjaSmithVEVO {10.0}
+/n
+Jack Whitehall {23.0}
+/n
+TheOdd1sOut {23.0}
+/n
+unnilunium {26.0}
+/n
+EnVogueVEVO {10.0}
+/n
+Dying Light {20.0}
+/n
+ONE Media {1.0}
+/n
+BuzzFeedVideo {22.0}
+/n
+Cow Chop {20.0}
+/n
+LastWeekTonight {1.0}
+/n
+Poppy {24.0}
+/n
+Tyler, The Creator {27.0}
+/n
+Candide Thovex {17.0}
+/n
+A Chick Called Albert {15.0}
+/n
+Cat Man Chris {15.0}
+/n
+Prime Video {24.0}
+/n
+engineerguy {28.0}
+/n
+doddleoddle {10.0}
+/n
+JamesBayVEVO {10.0}
+/n
+Ram Trucks {2.0}
+/n
+Quicken Loans {27.0}
+/n
+Desi Perkins {26.0}
+/n
+Gaming Historian {20.0}
+/n
+Grace Fit UK {22.0}
+/n
+Arden Rose {1.0}
+/n
+Man City {17.0}
+/n
+PS4Trophies {20.0}
+/n
+Anna Saccone {26.0}
+/n
+CatPusic {15.0}
+/n
+OVO Sound {10.0}
+/n
+Scott Manley {28.0}
+/n
+Vevo {10.0}
+/n
+tlc uk {24.0}
+/n
+Newsflare {15.0}
+/n
+Janelle Monáe {10.0}
+/n
+I20N3Y {22.0}
+/n
+AsapSCIENCE {28.0}
+/n
+Morgan Adams {24.0}
+/n
+How To Cook That {1.0, 26.0}
+/n
+Australia {19.0}
+/n
+MabelVEVO {10.0}
+/n
+KaliUchisVEVO {10.0}
+/n
+jeffreestar {26.0}
+/n
+SebastianYatraVEVO {10.0}
+/n
+Mike Shinoda {1.0, 10.0}
+/n
+iKON {10.0}
+/n
+KygoOfficialVEVO {10.0}
+/n
+JamesBlakeVEVO {10.0}
+/n
+Luke Birch {24.0}
+/n
+Colleen Ballinger {23.0}
+/n
+Legendary {1.0}
+/n
+JheneAikoVEVO {10.0}
+/n
+Sophia and Cinzia {1.0}
+/n
+ZeRo {20.0}
+/n
+shakiraVEVO {10.0}
+/n
+Dancing On Ice {24.0}
+/n
+Mark Ferris {23.0}
+/n
+Promo Sound {10.0}
+/n
+I Hate Everything {23.0}
+/n
+ThatcherJoe {23.0}
+/n
+Lucas Lucco {10.0}
+/n
+Rudimental {10.0}
+/n
+LogicVEVO {10.0}
+/n
+HouzzTV {26.0}
+/n
+Editors {10.0}
+/n
+theneedledrop {10.0}
+/n
+iggyazaleamusicVEVO {10.0}
+/n
+Bleecker Street {1.0}
+/n
+A-Boogie Wit Da Hoodie {1.0}
+/n
+ChvrchesVEVO {10.0}
+/n
+JudasPriestVEVO {10.0}
+/n
+NoodleVlogs {22.0}
+/n
+Joan Kim {26.0}
+/n
+amazon {24.0}
+/n
+Bazzi {10.0}
+/n
+Pabllo Vittar {10.0}
+/n
+특이한동물채널 {15.0}
+/n
+GameXplain {20.0}
+/n
+ralphthemoviemaker {1.0}
+/n
+TheMeanKitty {15.0}
+/n
+joyner lucas {10.0}
+/n
+Sardonicast {24.0}
+/n
+ArchD n' Bacon_ {20.0}
+/n
+MelendiOficialVEVO {10.0}
+/n
+dumbledoor26 {23.0}
+/n
+Comedy Central {23.0}
+/n
+Swish Daily {22.0}
+/n
+Lucas the Spider {1.0}
+/n
+StudiocanalUK {1.0}
+/n
+Tide {24.0}
+/n
+Loose Women {24.0}
+/n
+ReBoot: The Guardian Code {1.0}
+/n
+TalkBeckyTalk {26.0}
+/n
+ChrisJedayVEVO {10.0}
+/n
+Hobbie Stuart {26.0}
+/n
+hbomberguy {27.0}
+/n
+Jandora Media {10.0}
+/n
+KylieMinogueOnVEVO {10.0}
+/n
+GilCang {10.0}
+/n
+Cobra Kai {24.0, 22.0}
+/n
+OxfordUnion {25.0}
+/n
+Rob Ronnenberg {22.0}
+/n
+Calisthenicmovement {17.0}
+/n
+Visionary Music Group {10.0}
+/n
+CCTV春晚 {24.0}
+/n
+Aunty Donna {23.0}
+/n
+HalseyVEVO {10.0}
+/n
+TV Promos {24.0}
+/n
+jackfrags {20.0}
+/n
+Extra Credits {20.0}
+/n
+War Starts at Midnight Podcast {24.0}
+/n
+LukeIsNotSexy {22.0}
+/n
+Jenn Im {26.0}
+/n
+Simon {20.0}
+/n
+Jenny Nicholson {1.0}
+/n
+UNINTERRUPTED {17.0}
+/n
+BANDMAID {10.0}
+/n
+JoshX713 {10.0}
+/n
+William Singe {10.0}
+/n
+Alesso {10.0}
+/n
+Kayley Melissa {26.0}
+/n
+Oli White {24.0}
+/n
+Gggmanlives {20.0}
+/n
+Nike {17.0}
+/n
+Nerdist {24.0}
+/n
+My Virgin Kitchen {26.0}
+/n
+StingVEVO {10.0}
+/n
+MGMTVEVO {10.0}
+/n
+Glamour Magazine {24.0}
+/n
+Kylie Jenner {22.0}
+/n
+영국남자 Korean Englishman {23.0}
+/n
+American Idol {24.0}
+/n
+Tasty {22.0}
+/n
+STX Entertainment {1.0}
+/n
+HISTORY {24.0}
+/n
+CNCOVEVO {10.0}
+/n
+Disney XD {24.0}
+/n
+DemiLovatoVEVO {10.0}
+/n
+Kingsley {24.0}
+/n
+BlocBoy JB {10.0}
+/n
+YandelVEVO {10.0}
+/n
+Laura Lee {26.0}
+/n
+Imogenation {24.0}
+/n
+Good Morning America {24.0}
+/n
+Hector Bellerin {22.0}
+/n
+Real Madrid C.F. {17.0}
+/n
+Double Toasted {24.0}
+/n
+HYPEBEAST {22.0}
+/n
+Mikey Murphy {1.0}
+/n
+HelloGreedo {1.0}
+/n
+Tomorrowland {24.0}
+/n
+Gordon Ramsay {24.0}
+/n
+Nickelodeon {24.0}
+/n
+OperatorDrewski {20.0}
+/n
+IMAX {1.0}
+/n
+RickRossVEVO {10.0}
+/n
+HopeAnimation {1.0}
+/n
+BT Sport {17.0}
+/n
+durbeyfield {24.0}
+/n
+Ash Hardell {23.0}
+/n
+Lauv {10.0}
+/n
+BeachHouseVideoZone {10.0}
+/n
+Patrick (H) Willems {24.0}
+/n
+CapcomChannel {20.0}
+/n
+Asian Boss {25.0}
+/n
+JayRockVEVO {10.0}
+/n
+SeanPaulVEVO {10.0}
+/n
+Disney•Pixar {1.0}
+/n
+Sofia Reyes {10.0}
+/n
+A.B.Director {1.0}
+/n
+Bad Bunny {10.0}
+/n
+MowtenDoo {1.0}
+/n
+Call of Duty {20.0}
+/n
+Numberphile {28.0}
+/n
+Games for Change {20.0}
+/n
+DrakeVEVO {10.0}
+/n
+Disney Descendants {24.0}
+/n
+Anfisa Nava {22.0}
+/n
+5SOSVEVO {10.0}
+/n
+SORTEDfood {26.0}
+/n
+LSK {20.0}
+/n
+Rated-e Mods {20.0}
+/n
+Jordan B Peterson {27.0}
+/n
+WorldClassBullshitters {24.0}
+/n
+TrippieReddVEVO {10.0}
+/n
+Voynich Manuscript Research {27.0}
+/n
+Никита Ордынский {1.0}
+/n
+Best F(r)iends {1.0}
+/n
+Jason Derulo {10.0}
+/n
+MrBeast {24.0}
+/n
+RomeoSantosVEVO {10.0}
+/n
+Disney {24.0}
+/n
+Bravo {24.0}
+/n
+Warner Music {10.0}
+/n
+Shawn Mendes {10.0}
+/n
+Trixie Mattel {10.0}
+/n
+Universal Pictures Canada {24.0}
+/n
+Borussia Dortmund {17.0}
+/n
+QueensStoneAgeVEVO {10.0}
+/n
+Kristen Hancher {26.0}
+/n
+EC Henry {27.0}
+/n
+Desimpedidos {17.0}
+/n
+Cosmopolitan.com {26.0}
+/n
+Ballislife {17.0}
+/n
+ITV News {25.0}
+/n
+Twitch Moments {20.0}
+/n
+Best Unintentional ASMR {22.0}
+/n
+BELOW THE BELT with Brendan Schaub {17.0}
+/n
+hardknocktv {10.0}
+/n
+AdelaineMorin {26.0}
+/n
+Kylie Minogue {10.0}
+/n
+Unreal Engine {20.0}
+/n
+TopTens {1.0}
+/n
+GenoSamuel2 {24.0, 22.0}
+/n
+StarTalk {28.0}
+/n
+TheReportOfTheWeek {24.0}
+/n
+DJKhaledVEVO {10.0}
+/n
+YearsAndYearsVEVO {10.0}
+/n
+ChloexHalleVEVO {10.0}
+/n
+PnB Rock {10.0}
+/n
+Shinedown {10.0}
+/n
+RichTheKidVEVO {10.0}
+/n
+Apple {28.0}
+/n
+SadeVEVO {10.0}
+/n
+NPCarlsson {24.0}
+/n
+Ten Second Songs {10.0}
+/n
+ANDREW HUANG {10.0}
+/n
+21SavageVEVO {10.0}
+/n
+NickyJamTV {10.0}
+/n
+GeorgeEzraVEVO {10.0}
+/n
+MeghanTrainorVEVO {10.0}
+/n
+KarolGVEVO {10.0}
+/n
+JustDestiny {24.0}
+/n
+TheNeighbourhoodVEVO {10.0}
+/n
+MMAWeekly.com {17.0}
+/n
+CBS News {25.0}
+/n
+NetNobody {10.0}
+/n
+MMAnytt.se {17.0}
+/n
+consumer {23.0}
+/n
+The Movie Guy {24.0}
+/n
+Today News Feed {25.0}
+/n
+MMA FOCUS {17.0}
+/n
+The Slow Mo Guys {24.0}
+/n
+iHeartRadio {10.0}
+/n
+Eurovision Song Contest {24.0}
+/n
+Clairo {10.0}
+/n
+Noveball {17.0}
+/n
+JoanJetsetter {24.0}
+/n
+DONG {24.0}
+/n
+TV Guide {24.0}
+/n
+K-MUSIC {10.0}
+/n
+SELF {22.0}
+/n
+FreeDawkins {17.0}
+/n
+The Weeknd {10.0}
+/n
+DavidBisbalVEVO {10.0}
+/n
+Eurogamer {20.0}
+/n
+Natalies Outlet {24.0}
+/n
+Cinemassacre {20.0}
+/n
+CalvinHarrisVEVO {10.0}
+/n
+GalacticFusion {20.0}
+/n
+Azayn {20.0}
+/n
+Game&Anime {1.0}
+/n
+Beats 1 on Apple Music {10.0}
+/n
+RPDR LIVE {22.0}
+/n
+shinnox {20.0}
+/n
+Focus Features {24.0}
+/n
+Wale {10.0}
+/n
+Napalm Records {22.0}
+/n
+BigBoyTV {24.0}
+/n
+SuperDuperKyle {10.0}
+/n
+AnimalWised {15.0}
+/n
+Global News {25.0}
+/n
+FlatbushZombies TV {10.0}
+/n
+Best of Simpsons Characters {23.0}
+/n
+Shivaxi {20.0}
+/n
+Outdoor Boys {24.0}
+/n
+PlayNSkillzVEVO {10.0}
+/n
+JesseMcCartneyVEVO {10.0}
+/n
+Update Music TV {10.0}
+/n
+MarilynMansonVEVO {10.0}
+/n
+LOL Network {23.0}
+/n
+Hardwell {24.0}
+/n
+HERMusicVEVO {10.0}
+/n
+GrandsonVEVO {10.0}
+/n
+JDFFFN {24.0}
+/n
+lambofgodVEVO {10.0}
+/n
+ANTI- Records {10.0}
+/n
+RoyceDa59VEVO {10.0}
+/n
+Top Dawg Entertainment {10.0}
+/n
+Blumhouse Productions {24.0}
+/n
+Architectural Digest {24.0, 26.0}
+/n
+TroubleVEVO {10.0}
+/n
+elrubiusOMG {20.0}
+/n
+Endless Entertainment {24.0}
+/n
+Xbox {20.0}
+/n
+Pat the NES Punk {20.0}
+/n
+5 Seconds of Summer {10.0}
+/n
+WalrusRider {24.0}
+/n
+2ChainzVEVO {10.0}
+/n
+LouisaJohnsonVEVO {10.0}
+/n
+Videomusicawards {24.0}
+/n
+NickiMinajAtVEVO {10.0}
+/n
+PENTAGON 펜타곤 (Official YouTube Channel) {10.0}
+/n
+Queen Naija {24.0}
+/n
+SabrinaCarpenterVEVO {10.0}
+/n
+Thekempy {24.0}
+/n
+Sabrina Claudio {10.0}
+/n
+LtCorbis {23.0}
+/n
+Quinton Reviews {24.0}
+/n
+Just Write {1.0}
+/n
+Star Wars Expanded {24.0}
+/n
+Lindsay Ellis {24.0}
+/n
+Elise {10.0}
+/n
+여자친구 GFRIEND OFFICIAL {10.0}
+/n
+HOLLYWOOD UNLOCKED {24.0}
+/n
+MovieMix {1.0}
+/n
+Aviad Balelli {24.0}
+/n
+iamAURORAVEVO {10.0}
+/n
+johnlegendVEVO {10.0}
+/n
+LIVELOVEASAPVEVO {10.0}
+/n
+AzealiaBanksVEVO {10.0}
+/n
+ArcticMonkeysVEVO {10.0}
+/n
+Johnny Marr {10.0}
+/n
+JackConteExtras {22.0}
+/n
+LSDVEVO {10.0}
+/n
+Ghost {10.0}
+/n
+ignoramusky {15.0}
+/n
+AllYourScreens {24.0}
+/n
+John Scurek {10.0}
+/n
+TheWeekndVEVO {10.0}
+/n
+ZaynVEVO {10.0}
+/n
+FlorenceMachineVEVO {10.0}
+/n
+Stone Music Entertainment {10.0}
+/n
+Teaser PRO {24.0}
+/n
+Google Spotlight Stories {1.0}
+/n
+Andrew M {10.0}
+/n
+Live Audience Reactions {24.0}
+/n
+MBCentertainment {24.0}
+/n
+Meek Mill {10.0}
+/n
+CAguileraVEVO {10.0}
+/n
+J. Cole {10.0}
+/n
+Zero Media {1.0}
+/n
+OnePlus {28.0}
+/n
+Nicole Arbour {24.0}
+/n
+Queen Official {24.0}
+/n
+Justice {10.0}
+/n
+LIVEKellyandRyan {24.0}
+/n
+Rita Ora {24.0}
+/n
+Mizumi {20.0}
+/n
+ITV {24.0}
+/n
+RWhiteGoose {20.0}
+/n
+Ubisoft North America {20.0}
+/n
+Jacob Sartorius {10.0}
+/n
+BastilleVEVO {10.0}
+/n
+Nintendo Wire {20.0}
+/n
+BestInSlot {20.0}
+/n
+Anne-Marie {10.0}
+/n
+Golden State Times {25.0}
+/n
+zeldaxlove64 Christina Grimmie {10.0}
+/n
+ChildishGambinoVEVO {10.0}
+/n
+NBA on TNT {17.0}
+/n
+Blu-Ray Clips {1.0}
+/n
+Who Wants To Be A Millionaire? {24.0}
+/n
+BABYMETAL {10.0}
+/n
+TravisScottVEVO {10.0}
+/n
+CelineDionVEVO {10.0}
+/n
+MattHunterVEVO {10.0}
+/n
+Lionsgate Movies {1.0}
+/n
+Lil Skies {10.0}
+/n
+GunsNRosesVEVO {10.0}
+/n
+Kanye West {22.0}
+/n
+Helpful Vancouver Vet {15.0}
+/n
+House of Velour {24.0}
+/n
+Dancing With The Stars {24.0}
+/n
+Warner Música {10.0}
+/n
+ABC News {25.0}
+/n
+Mason Ramsey {10.0}
+/n
+EllaMaiVEVO {10.0}
+/n
+ShawnMendesVEVO {10.0}
+/n
+PeeWeeToms {22.0}
+/n
+Marvel Studios Movies {29.0}
+/n
+Ariana Grande` {10.0}
+/n
+ArianaGrandeVevo {10.0}
+/n
+JColeVEVO {10.0}
+/n
+MGKVEVO {10.0}
+/n
+BeckyGVEVO {10.0}
+/n
+Wolfe Video {1.0}
+/n
+RealVIXX {10.0}
+/n
+NardwuarServiette {10.0}
+/n
+Nicki Minaj {10.0}
+/n
+APerfectCircleVEVO {10.0}
+/n
+Young Thug {24.0}
+/n
+GhostBCVEVO {10.0}
+/n
+Flow La Movie {10.0}
+/n
+MLB {17.0}
+/n
+Dictionay lenght : 1410
