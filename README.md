@@ -31,6 +31,9 @@ jupyter notebook
 
 ### Some Inspiration
 https://www.kaggle.com/ankkur13/sentiment-analysis-nlp-wordcloud-textblob/notebook
+
 https://www.kaggle.com/donyoe/exploring-youtube-trending-statistics-eda
+
 https://www.kaggle.com/quannguyen135/what-is-trending-on-youtube-eda-with-python
+
 https://www.kaggle.com/jpnewmenji/k-means-clustering-youtube-eda/code
